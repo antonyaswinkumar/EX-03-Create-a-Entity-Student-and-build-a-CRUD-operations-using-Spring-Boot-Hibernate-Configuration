@@ -1,4 +1,4 @@
-# Exp 03_-Entity-Student-and-build-a-CRUD-operations-using-Spring-Boot-Hibernate-Configuration
+# Exp 03 - Entity-Student-and-build-a-CRUD-operations-using-Spring-Boot-Hibernate-Configuration
 
 ## AIM:
 To develop a Spring Boot application that performs CRUD (Create, Read, Update, Delete) operations on a Student entity using Spring Data JPA (Hibernate).
@@ -200,7 +200,30 @@ public class Experiment3Application {
 
 ## Output:
 
-# 
+# POST /students/data
+
+<img width="1917" height="1006" alt="Screenshot 2026-11-20 115841" src="https://github.com/user-attachments/assets/95c7b09a-5c66-486c-9d2b-1a4487b10841" />
+
+
+# GET /students
+
+<img width="1917" height="1021" alt="Screenshot 2026-11-20 115934" src="https://github.com/user-attachments/assets/ee648be6-140c-499a-adbf-185864edd0e7" />
+
+# GET /students/:id
+
+<img width="1917" height="1020" alt="Screenshot 2026-11-20 120021" src="https://github.com/user-attachments/assets/119283d6-7950-46bc-b836-95eab145dae6" />
+
+# PUT /students/:id
+
+<img width="1917" height="1017" alt="Screenshot 2026-11-20 120155" src="https://github.com/user-attachments/assets/0baefe20-5e12-4689-ae88-5b9baffadbfa" />
+
+# DELETE /students/:id
+
+<img width="1917" height="1006" alt="Screenshot 2026-11-20 120221" src="https://github.com/user-attachments/assets/a293a3d6-327b-4599-99a8-408543c54e0a" />
+
+
+### Result:
+Thus, The program to develop a Spring Boot application that performs CRUD (Create, Read, Update, Delete) operations on a Student entity using Spring Data JPA (Hibernate) is executed successfully. 
 
 
 
